@@ -1,0 +1,4 @@
+- 👋 Hi, I’m NISHA @nishadevi0210
+- ❣️ I am from India.
+- 🍔 I’m interested in food
+- 💻 I’m currently learning React and .net
